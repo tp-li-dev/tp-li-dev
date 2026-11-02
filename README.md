@@ -79,8 +79,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harumaki4649/harumaki4649/main/src/github-readme-stats/github-readme-stats-1.svg" height="180em"/>
-  <img src="https://raw.githubusercontent.com/harumaki4649/harumaki4649/main/src/github-readme-stats/github-readme-stats-2.svg" height="180em"/>
+  <img src="https://raw.githubusercontent.com/tp-li-dev/tp-li-dev/main/src/github-readme-stats/github-readme-stats-1.svg" height="180em"/>
+  <img src="https://raw.githubusercontent.com/tp-li-dev/tp-li-dev/main/src/github-readme-stats/github-readme-stats-2.svg" height="180em"/>
 </div>
 
 <div align="center">
@@ -96,7 +96,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harumaki4649/harumaki4649/main/src/trophy/github-trophy.svg" />
+  <img src="https://raw.githubusercontent.com/tp-li-dev/tp-li-dev/main/src/trophy/github-trophy.svg" />
 </div>
 
 ---
